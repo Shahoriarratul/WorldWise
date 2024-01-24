@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Arino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T11:18:15.060Z",
+      "notes": "",
+      "position": {
+        "lat": "41.08763212467916",
+        "lng": "-0.6372070312500001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Consuegra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T11:23:17.848Z",
+      "notes": "",
+      "position": {
+        "lat": "39.54641191968671",
+        "lng": "-3.7353515625000004"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Consuegra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-17T11:23:26.124Z",
+      "notes": "",
+      "position": {
+        "lat": "39.52946653645165",
+        "lng": "-3.6474609375000004"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Casas de Fernando Alonso",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-24T20:01:29.742Z",
+      "notes": "",
+      "position": {
+        "lat": "39.342794408952386",
+        "lng": "-2.3291015625000004"
+      },
+      "id": 98443208
+    }
+  ]
+}
