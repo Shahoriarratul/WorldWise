@@ -1,5 +1,5 @@
 import styles from "./Message.module.css";
-/* eslint-disable react/prop-types */
+
 function Message({ message }) {
   return (
     <p className={styles.message}>

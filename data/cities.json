@@ -13,6 +13,18 @@
       "id": 73930385
     },
     {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -25,52 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Arino",
+      "cityName": "Nijar",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-01-17T11:18:15.060Z",
+      "date": "2023-04-03T07:47:59.202Z",
       "notes": "",
       "position": {
-        "lat": "41.08763212467916",
-        "lng": "-0.6372070312500001"
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
       },
-      "id": 98443204
-    },
-    {
-      "cityName": "Consuegra",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-17T11:23:17.848Z",
-      "notes": "",
-      "position": {
-        "lat": "39.54641191968671",
-        "lng": "-3.7353515625000004"
-      },
-      "id": 98443206
-    },
-    {
-      "cityName": "Consuegra",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-17T11:23:26.124Z",
-      "notes": "",
-      "position": {
-        "lat": "39.52946653645165",
-        "lng": "-3.6474609375000004"
-      },
-      "id": 98443207
-    },
-    {
-      "cityName": "Casas de Fernando Alonso",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-24T20:01:29.742Z",
-      "notes": "",
-      "position": {
-        "lat": "39.342794408952386",
-        "lng": "-2.3291015625000004"
-      },
-      "id": 98443208
+      "id": 98443198
     }
   ]
 }
